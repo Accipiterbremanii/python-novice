@@ -1,5 +1,6 @@
+
 plots/
 script/*.ipynb
 script/_pychache_
-
+script/.ipynb_checkpoints/
 
